@@ -1,0 +1,27 @@
+MÉRIDA — TIENDA ONLINE (ACTUALIZACIÓN NOVIEMBRE 2026)
+
+CÓMO ABRIR
+1. Extraé el ZIP completo.
+2. Abrí index.html desde la carpeta extraída.
+3. Dejá juntos index.html, producto.html, data.js, app.js, style.css e imagenes/.
+
+INCLUYE
+- Portada de pantalla completa con la fotografía del local enviada por el usuario.
+- Cards de producto, página de detalle y carrito de consulta.
+- Menú lateral de categorías (ícono de tres rayas).
+- Buscador con sugerencias que aparecen al escribir.
+- Revista digital automática cada 15 segundos y flechas para avanzar o retroceder.
+- Categorías con fotografía; seleccionarlas filtra el catálogo.
+- 38 productos, con nuevos artículos y foto reemplazada para la remera JAPAN.
+
+IMPORTANTE
+Los nombres, variantes y descripciones se basan en lo visible de las fotografías. Los talles, materiales y demás características deben confirmarse con el local.
+Los precios solo se cargaron cuando se vieron explícitos en las fotografías compartidas; el resto dice «Precio a consultar».
+El stock de cinco unidades por color es demostrativo y se calcula a partir de lo que se agrega al carrito en ESE navegador. No se sincroniza entre clientes ni representa disponibilidad real.
+WhatsApp configurado: +54 9 2923 582100. Confirmar con el local antes de publicar.
+
+PUBLICAR
+Subí a GitHub Pages o al proveedor de hosting todos los archivos, incluyendo la carpeta imagenes/. El sitio es HTML/CSS/JS estático, sin backend de pagos ni inventario centralizado.
+
+CONTACTO Y MAPA
+Footer con teléfono 2923 582100, Brandsen 350 (Coronel Suárez), mapa incrustado de Tienda MÉRIDA y leyenda «Más de 6 años acompañándote».
